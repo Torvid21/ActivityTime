@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stinger\\Dropbox\\Stinger\\projects\\software\\ActivityTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1496AE7A-2A29-4AB5-B04A-AE65F510E1A3}|ActivityTime\\ActivityTime.csproj|c:\\users\\stinger\\dropbox\\stinger\\projects\\software\\activitytime\\activitytime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1496AE7A-2A29-4AB5-B04A-AE65F510E1A3}|ActivityTime\\ActivityTime.csproj|solutionrelative:activitytime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1496AE7A-2A29-4AB5-B04A-AE65F510E1A3}|ActivityTime\\ActivityTime.csproj|C:\\Users\\Stinger\\Dropbox\\Stinger\\projects\\software\\ActivityTime\\activitytime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1496AE7A-2A29-4AB5-B04A-AE65F510E1A3}|ActivityTime\\ActivityTime.csproj|solutionrelative:activitytime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1496AE7A-2A29-4AB5-B04A-AE65F510E1A3}|ActivityTime\\ActivityTime.csproj|C:\\Users\\Stinger\\Dropbox\\Stinger\\projects\\software\\ActivityTime\\activitytime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1496AE7A-2A29-4AB5-B04A-AE65F510E1A3}|ActivityTime\\ActivityTime.csproj|solutionrelative:activitytime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Stinger\\Dropbox\\Stinger\\projects\\software\\ActivityTime\\ActivityTime\\Form1.cs",
+              "RelativeDocumentMoniker": "ActivityTime\\Form1.cs",
+              "ToolTip": "C:\\Users\\Stinger\\Dropbox\\Stinger\\projects\\software\\ActivityTime\\ActivityTime\\Form1.cs",
+              "RelativeToolTip": "ActivityTime\\Form1.cs",
+              "ViewState": "AQIAAEQCAAAAAAAAAAAvwFoCAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:29:15.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Stinger\\Dropbox\\Stinger\\projects\\software\\ActivityTime\\ActivityTime\\Form1.cs",
+              "RelativeDocumentMoniker": "ActivityTime\\Form1.cs",
+              "ToolTip": "C:\\Users\\Stinger\\Dropbox\\Stinger\\projects\\software\\ActivityTime\\ActivityTime\\Form1.cs [Design]",
+              "RelativeToolTip": "ActivityTime\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:29:13.286Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stinger\\Dropbox\\Stinger\\projects\\software\\ActivityTime\\ActivityTime\\Program.cs",
+              "RelativeDocumentMoniker": "ActivityTime\\Program.cs",
+              "ToolTip": "C:\\Users\\Stinger\\Dropbox\\Stinger\\projects\\software\\ActivityTime\\ActivityTime\\Program.cs",
+              "RelativeToolTip": "ActivityTime\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T15:29:06.936Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
